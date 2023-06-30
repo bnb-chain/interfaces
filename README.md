@@ -1,3 +1,5 @@
+** This repo is deprecated, BSC Erigon is supported in: https://github.com/node-real/bsc-erigon**
+
 # Interfaces
 Interfaces for Erigon components, compatible with Silkworm and Akula. Currently it is a collection of `.proto` files describing gRPC interfaces between components, but later documentation about each interface, its components, as well as required version of gRPC will be added
 
